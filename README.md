@@ -1,0 +1,2 @@
+# ShapeAI_Python_Machine_Learning
+PYTHON MACHINE LEARNING - 7 DAYS BOOTCAMP
